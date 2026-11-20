@@ -20,7 +20,7 @@ The original **Giggletwig – Complete DIM Wishlist** export is published as ten
 - [Open the complete wishlist folder](https://github.com/NewbieTeebee/DIM-Wishlists/tree/main/complete-dim-wishlist)
 - [Original file details and installation instructions](https://github.com/NewbieTeebee/DIM-Wishlists/blob/main/complete-dim-wishlist/README.md)
 
-The source contains the complete weapon wishlist and trashlist generated from the supplied Destiny 2 Endgame Analysis build sheet. It has 197,916 DIM entries, with specific recommendations before generic trashlist entries. It is uploaded in sequential parts without changing the line order.
+The source contains the complete weapon wishlist and trashlist generated from the supplied Destiny 2 Endgame Analysis build sheet. It contains 197,916 specific wishlist entries plus 277 generic trashlist entries (198,193 DIM entries in total), with specific recommendations before generic trashlist entries. It is uploaded in sequential parts without changing the line order.
 
 ## Monument of Triumph
 
