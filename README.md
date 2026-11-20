@@ -1,25 +1,35 @@
-# DIM-Wishlists
+# Giggletwig — Destiny 2 DIM Wishlists
 
-Community-curated Destiny Item Manager (DIM) wishlist sources maintained by Giggletwig.
+Community wishlist collections for Destiny Item Manager (DIM).
+
+## Complete DIM Wishlist + Trashlist
+
+The original **Giggletwig – Complete DIM Wishlist** export is published as ten consecutive text parts because the full source is approximately 15 MB. Add **all ten raw URLs** to DIM's external wishlist sources to load the complete collection. Keep the parts in numerical order.
+
+- [Part 01](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-01-of-10.txt)
+- [Part 02](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-02-of-10.txt)
+- [Part 03](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-03-of-10.txt)
+- [Part 04](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-04-of-10.txt)
+- [Part 05](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-05-of-10.txt)
+- [Part 06](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-06-of-10.txt)
+- [Part 07](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-07-of-10.txt)
+- [Part 08](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-08-of-10.txt)
+- [Part 09](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-09-of-10.txt)
+- [Part 10](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/complete-dim-wishlist/complete-dim-wishlist-part-10-of-10.txt)
+
+- [Open the complete wishlist folder](https://github.com/NewbieTeebee/DIM-Wishlists/tree/main/complete-dim-wishlist)
+- [Original file details and installation instructions](https://github.com/NewbieTeebee/DIM-Wishlists/blob/main/complete-dim-wishlist/README.md)
+
+The source contains the complete weapon wishlist and trashlist generated from the supplied Destiny 2 Endgame Analysis build sheet. It has 197,916 DIM entries, with specific recommendations before generic trashlist entries. It is uploaded in sequential parts without changing the line order.
 
 ## Monument of Triumph
 
-A separate collection of curated PvE and PvP trait rolls for Monument of Triumph refreshed and reprised weapons.
-
-- **PvE wishlist:** [monument-pve.txt](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-pve.txt)
-- **PvP wishlist:** [monument-pvp.txt](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-pvp.txt)
-- **Roll audit (CSV):** [monument-audit.csv](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-audit.csv)
-- **Weapon coverage (CSV):** [monument-weapon-coverage.csv](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-weapon-coverage.csv)
-- **Scope, methodology and sources:** [monument-of-triumph/README.md](https://github.com/NewbieTeebee/DIM-Wishlists/blob/main/monument-of-triumph/README.md)
-
-The Monument collection is a curated starter set, not an exhaustive list of every weapon touched by the refresh. See the collection README for the selection scope, evidence, confidence definitions and known limitations.
+- [Monument of Triumph — PvE](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-pve.txt)
+- [Monument of Triumph — PvP](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-pvp.txt)
+- [Monument collection folder](https://github.com/NewbieTeebee/DIM-Wishlists/tree/main/monument-of-triumph)
 
 ## Adding wishlists to DIM
 
-Add the raw PvE and PvP URLs separately in DIM's external wishlist settings. Keeping them separate lets you enable or remove each collection independently.
+Add the raw text URLs in DIM's external wishlist settings. For the complete wishlist, include all ten part URLs. The Monument PvE and PvP collections can be added independently.
 
-## Method and validation
-
-Weapon and perk plug hashes were checked against the supplied Bungie manifest export dated 20 November 2026. The DIM text files passed local syntax and hash-reference validation. The files have not yet been imported into a live DIM session.
-
-Recommendations are community-informed, not official Bungie rankings. See each collection's README and audit files for source links and rationale.
+Each collection has its own README/audit information describing its scope, sources and validation limitations.
