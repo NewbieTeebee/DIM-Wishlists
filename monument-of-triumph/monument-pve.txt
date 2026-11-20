@@ -1,0 +1,79 @@
+title:Giggletwig - Monument of Triumph PVE Community Wishlist
+description:Curated Monument of Triumph refreshed and reprised weapon rolls. Trait-focused matching; barrel and magazine are intentionally unrestricted.
+// Generated 2026-11-20. Weapon hashes checked against the supplied Bungie manifest export.
+// Each line specifies one or more trait perks only. DIM supports partial perk matching; enhanced versions are matched automatically.
+
+//notes:Zaouli's Bane | Pantheon / King's Fall | Primary | High confidence | LFCarry's November 2026 Monument meta guide recommends this Solar add-clear pairing.
+dimwishlist:item=3066945855&perks=3038247973,4293542123
+
+//notes:Zaouli's Bane | Pantheon / King's Fall | Alternative | Medium confidence | Alternative community-sheet recommendation; a different sustained-combat/add-clear direction.
+dimwishlist:item=3066945855&perks=1561789734,3640170453
+
+//notes:Chattering Bone | Pantheon / Last Wish | Primary | High confidence | LFCarry's Monument/Pantheon loot guide recommends this pairing.
+dimwishlist:item=4157371152&perks=247725512,1015611457
+
+//notes:Chattering Bone | Pantheon / Last Wish | Alternative | Medium confidence | Alternative community-sheet roll for crowd control and sustained damage.
+dimwishlist:item=4157371152&perks=2289534249,3891536761
+
+//notes:Reckless Oracle | Pantheon / Garden of Salvation | Primary | High confidence | LFCarry's Monument/Pantheon loot guide recommends this Void utility pairing.
+dimwishlist:item=4158265643&perks=777589557,2048641572
+
+//notes:Reckless Oracle | Pantheon / Garden of Salvation | Alternative | Medium confidence | Alternative community-sheet roll combining Void add-clear with sustained combat damage.
+dimwishlist:item=4158265643&perks=2048641572,3640170453
+
+//notes:Alone as a god | Pantheon / Leviathan | Primary | High confidence | LFCarry's Monument/Pantheon loot guide recommends this damage-phase pairing.
+dimwishlist:item=4278664152&perks=1523832109,3078487919
+
+//notes:Alone as a god | Pantheon / Leviathan | Alternative | Medium confidence | Alternative community-sheet recommendation for sustained fire and area damage.
+dimwishlist:item=4278664152&perks=2578928832,3891536761
+
+//notes:Bane of Sorrow | Pantheon / Crown of Sorrow | Primary | Medium confidence | LFCarry's Monument/Pantheon loot guide recommends this Void machine-gun combination.
+dimwishlist:item=2601084711&perks=1523832109,2048641572
+
+//notes:Threat Level | Pantheon / Scourge of the Past | Primary | High confidence | LFCarry's Monument/Pantheon loot guide recommends this melee-synergy pairing.
+dimwishlist:item=950894542&perks=691659142,2679249093
+
+//notes:Threat Level | Pantheon / Scourge of the Past | Alternative | Medium confidence | Alternative community-sheet recommendation.
+dimwishlist:item=950894542&perks=3751912585,1226351311
+
+//notes:Eyasluna | Grasp of Avarice | Primary | High confidence | The updated Stasis pool's headline PvE combination; also the most-used pair in the current light.gg roll sample.
+dimwishlist:item=386864872&perks=1561789734,124408337
+
+//notes:Eyasluna | Grasp of Avarice | Alternative | Medium confidence | Alternative Stasis synergy pairing supported by current Monument-era roll guidance.
+dimwishlist:item=386864872&perks=1561789734,2922950962
+
+//notes:Matador 64 | Grasp of Avarice | Niche | Medium confidence | Melee/ammo utility alternative; rated as a PvE roll by Lightbearer Saga.
+dimwishlist:item=2563012876&perks=1556840489,4082225868
+
+//notes:Riptide | Crucible / Shaxx focusing | Primary | High confidence | Top community-recommended PvE pairing; D2 Roll Check sample includes 732 recommended rolls.
+dimwishlist:item=1323862250&perks=3300816228,2978966579
+
+//notes:Riptide | Crucible / Shaxx focusing | Alternative | High confidence | Second-strongest community roll pairing in the current usage sample.
+dimwishlist:item=1323862250&perks=3643424744,2978966579
+
+//notes:Seventh Seraph Carbine | Cosmodrome destination refresh | Primary | Medium confidence | Community wishlist recommendation for the refreshed S29 version; both perks appear in the refreshed pool.
+dimwishlist:item=2560370239&perks=4104185692,365154968
+
+//notes:Blast Furnace | Black Armory / Arena Ops | Primary | High confidence | Current light.gg community usage data shows this among the most-used combinations; pandapaxxy's wishlist recommendation also highlights this pairing.
+dimwishlist:item=2631356658&perks=3891536761,1561789734
+
+//notes:Blast Furnace | Black Armory / Arena Ops | Alternative | Medium confidence | Alternative damage and area-pressure pairing supported by current community roll data.
+dimwishlist:item=2631356658&perks=3891536761,4049631843
+
+//notes:Hammerhead | Black Armory / Arena Ops | Primary | High confidence | Masterworked.GG lists this among the community's first-choice PvE rolls for the Monument version.
+dimwishlist:item=850999853&perks=1354429876,2782457288
+
+//notes:Hammerhead | Black Armory / Arena Ops | Alternative | High confidence | A second first-choice PvE pairing in the current Monument version's community wishlist data.
+dimwishlist:item=850999853&perks=1354429876,365154968
+
+//notes:The Ringing Nail | Black Armory / Arena Ops | Primary | High confidence | Shard or Keep's largest current community wishlist roll prioritises Heal Clip; Firefly is its recommended add-clear partner.
+dimwishlist:item=4206550094&perks=3017780555,1561789734
+
+//notes:The Ringing Nail | Black Armory / Arena Ops | Alternative | High confidence | Current light.gg usage shows Incandescent + Firefly as a leading combination; Shard or Keep recommends this for Solar add-clear.
+dimwishlist:item=4206550094&perks=4293542123,1561789734
+
+//notes:The Ringing Nail | Black Armory / Arena Ops | Alternative | Medium confidence | Community wishlist recommendation for sustained fire and add-clear.
+dimwishlist:item=4206550094&perks=2578928832,95528736
+
+//notes:Succession | Deep Stone Crypt raid | Primary | Medium confidence | Monument-era PvE recommendation for sustained boss damage; check the refreshed S29 version rather than assuming older copies share the same pool.
+dimwishlist:item=570866107&perks=1523832109,1546637391
