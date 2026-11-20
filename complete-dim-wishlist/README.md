@@ -25,7 +25,7 @@ Add all ten raw URLs to DIM's external wishlist sources. The parts are consecuti
 
 - Original source: Giggletwig's Destiny 2 Endgame Analysis build sheet.
 - Original export: Giggletwig_D2_Complete_Wishlist_Trashlist.txt.
-- Source contains 197,916 DIM wishlist entries: specific recommended rolls followed by generic trashlist entries.
+- Source contains 197,916 specific wishlist entries plus 277 generic trashlist entries (198,193 DIM entries in total).
 - The file was split at line boundaries only. Entry order and content are preserved.
 - Specific wishlist lines precede generic trashlist entries, preserving the original DIM first-match ordering.
 - The file includes explanatory notes such as weapon tier, rank, category, element, frame, source, recommended masterwork, origin trait and source notes.
