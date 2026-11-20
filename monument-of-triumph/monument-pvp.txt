@@ -1,0 +1,19 @@
+title:Giggletwig - Monument of Triumph PVP Community Wishlist
+description:Curated Monument of Triumph refreshed and reprised weapon rolls. Trait-focused matching; barrel and magazine are intentionally unrestricted.
+// Generated 2026-11-20. Weapon hashes checked against the supplied Bungie manifest export.
+// Each line specifies one or more trait perks only. DIM supports partial perk matching; enhanced versions are matched automatically.
+
+//notes:Eyasluna | Grasp of Avarice | Primary | High confidence | Current Monument-era PvP recommendation and a leading community-used trait combination.
+dimwishlist:item=386864872&perks=3161816588,555281244
+
+//notes:Matador 64 | Grasp of Avarice | Primary | High confidence | Lightbearer Saga's recommended PvP pairing; Threat Detector and Opening Shot complement close-range duels.
+dimwishlist:item=2563012876&perks=4071163871,47981717
+
+//notes:Riptide | Crucible / Shaxx focusing | Primary | Medium confidence | Current PvP recommendation from D2 Roll Check; prioritises consistency and duel performance.
+dimwishlist:item=1323862250&perks=1645158859,1194056669
+
+//notes:Igneous Hammer | Trials of Osiris | Primary | High confidence | LFCarry's November 2026 guide lists Rapid Hit or Slideshot with Opening Shot or Precision Instrument.
+dimwishlist:item=1973107014&perks=247725512,47981717
+
+//notes:Igneous Hammer | Trials of Osiris | Alternative | High confidence | Second supported pairing from the Monument-era Trials refresh.
+dimwishlist:item=1973107014&perks=3161816588,555281244
