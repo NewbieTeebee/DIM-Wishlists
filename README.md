@@ -28,6 +28,13 @@ The source contains the complete weapon wishlist and trashlist generated from th
 - [Monument of Triumph — PvP](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/monument-of-triumph/monument-pvp.txt)
 - [Monument collection folder](https://github.com/NewbieTeebee/DIM-Wishlists/tree/main/monument-of-triumph)
 
+## God Roll Wishlist
+
+- [Giggletwig — God Roll Wishlist](https://raw.githubusercontent.com/NewbieTeebee/DIM-Wishlists/main/god-roll-wishlist/god-roll-wishlist.txt)
+- [God Roll Wishlist folder](https://github.com/NewbieTeebee/DIM-Wishlists/tree/main/god-roll-wishlist)
+
+A curated collection of 10 unique DIM weapon-roll entries supplied by Giggletwig. Each entry is labelled `God Roll` in the DIM notes field. Perk and item hashes are preserved as supplied.
+
 ## Adding wishlists to DIM
 
 Add the raw text URLs in DIM's external wishlist settings. For the complete wishlist, include all ten part URLs. The Monument PvE and PvP collections can be added independently.
